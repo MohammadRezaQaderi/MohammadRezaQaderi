@@ -13,7 +13,7 @@
 My favorite programming language is <a rel="nofollow">Maybe Go</a>, I have experience in Java and python3 too.I work for no one. <br>
 <br>
 Fun fact: I do love Fifa.</p>
-<div class="highlight highlight-source-go"><pre><span class="pl-k">go</span> <span class="pl-en">inLove</span>([]<span class="pl-smi">string</span>{<span class="pl-s"></span> <span style="color:red">"c"</span>, <span class="pl-s">"java"</span>, <span class="pl-s">"javascript"</span>, <span class="pl-s">"python3"</span>, <span class="pl-s">"angular"</span>)
+<div class="highlight highlight-source-go"><pre><span class="pl-k">go</span> <span class="pl-en">inLove</span>([]<span class="pl-smi">string</span>{<span class="pl-s"></span> <span style="color:red">"c"</span>, <span class="pl-s">"java"</span>, <span class="pl-s">"javascript"</span>, <span class="pl-s">"python3"</span>, <span class="pl-s">"angular"</span> , <span class="pl-s">"laravel"</span>)
 <span class="pl-k">go</span> <span class="pl-en">research</span>([]<span class="pl-smi">string</span>{<span class="pl-s">"AI"</span>})
 <br>
 <span class="pl-k";  style="color:red;">for</span> <span class="pl-en">aLive</span>() <span class="pl-c1">==</span> <span class="pl-c1">true</span> {
