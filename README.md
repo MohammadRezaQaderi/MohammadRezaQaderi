@@ -59,5 +59,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohammadRezaQaderi&show_icons=true&theme=monokai" alt="MuhmdrezA Qaderi's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadRezaQaderi&theme=monokai" alt="MuhmdrezA Qaderi's Github Steak" />
-  <img width="470px" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRezaQaderi&layout=compact&langs_count=12&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRezaQaderi&layout=compact&langs_count=12&theme=monokai" alt="MuhmdrezA Qaderi's Most Used Languages" />
 </p>
