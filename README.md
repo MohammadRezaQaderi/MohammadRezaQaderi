@@ -10,12 +10,12 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/35cdac0216bc38783736dffef9d51906b6a7b340/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d707974686f6e332d6f72616e67653f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e"><img src="https://camo.githubusercontent.com/35cdac0216bc38783736dffef9d51906b6a7b340/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d707974686f6e332d6f72616e67653f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e" alt="" data-canonical-src="https://img.shields.io/badge/-python3-orange?style=flat-square&amp;logo=python" style="max-width:100%;"></a>
 </p>
 <p><a href="mailto:mrq112775@gmail.com"><img src="https://camo.githubusercontent.com/c7d9ad89d81567ad4d666c9cf4c9646fd965a52f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d676d61696c2d6c69676874677261793f7374796c653d666c61742d737175617265266c6f676f3d676d61696c" alt="" data-canonical-src="https://img.shields.io/badge/-gmail-lightgray?style=flat-square&amp;logo=gmail" style="max-width:100%;"></a></p>
-    <p>I'm currently studying computer engineering at <a href="https://aut.ac.ir/" rel="nofollow">Amirkabir University Of Technology</a> and looking <br>forward to study AI in the future.<br>
+    <p>I'm currently studying computer engineering at <a href="https://aut.ac.ir/" rel="nofollow">Amirkabir University Of Technology</a> and looking <br>forward to study AI And Network in the future.<br>
 My favorite programming language is <a rel="nofollow">Maybe Go</a>, I have experience in Java and python3 too.I work for no one. <br>
 <br>
 Fun fact: I do love Fifa.</p>
-<div class="highlight highlight-source-go"><pre><span class="pl-k">go</span> <span class="pl-en">inLove</span>([]<span class="pl-smi">string</span>{<span class="pl-s"></span> <span style="color:red">"c"</span>, <span class="pl-s">"java"</span>, <span class="pl-s">"Django"</span>, <span class="pl-s">"python3"</span>, <span class="pl-s">"angular"</span> , <span class="pl-s">"laravel"</span>)
-<span class="pl-k">go</span> <span class="pl-en">research</span>([]<span class="pl-smi">string</span>{<span class="pl-s">"AI"</span>})
+<div class="highlight highlight-source-go"><pre><span class="pl-k">go</span> <span class="pl-en">inLove</span>([]<span class="pl-smi">string</span>{<span class="pl-s"></span> <span style="color:red">"c"</span>, <span class="pl-s">"java"</span>, <span class="pl-s">"Django"</span>, <span class="pl-s">"python3"</span>, <span class="pl-s">"React"</span> , <span class="pl-s">"laravel"</span>)
+<span class="pl-k">Go</span> <span class="pl-en">research</span>([]<span class="pl-smi">string</span>{<span class="pl-s">"IOT"</span>})
 <br>
 <span class="pl-k";  style="color:red;">for</span> <span class="pl-en">aLive</span>() <span class="pl-c1">==</span> <span class="pl-c1">true</span> {
   <span class="pl-en">eat</span>()
