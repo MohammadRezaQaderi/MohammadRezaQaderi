@@ -14,7 +14,7 @@
 My favorite programming language is <a rel="nofollow">Maybe Go</a>, I have experience in Java and python3 too.I work for no one. <br>
 <br>
 Fun fact: I do love Fifa.</p>
-<div class="highlight highlight-source-go"><pre><span class="pl-k">go</span> <span class="pl-en">inLove</span>([]<span class="pl-smi">string</span>{<span class="pl-s"></span> <span style="color:red">"c"</span>, <span class="pl-s">"java"</span>, <span class="pl-s">"Django"</span>, <span class="pl-s">"python3"</span>, <span class="pl-s">"React"</span> , <span class="pl-s">"laravel"</span>)
+<div class="highlight highlight-source-go"><pre><span class="pl-k">go</span> <span class="pl-en">inLove</span>([]<span class="pl-smi">string</span>{<span class="pl-s"></span> <span style="color:red">"C"</span>, <span class="pl-s">"Java"</span>, <span class="pl-s">"Django"</span>, <span class="pl-s">"Python"</span>, <span class="pl-s">"React"</span> , <span class="pl-s">"Laravel"</span>)
 <span class="pl-k">Go</span> <span class="pl-en">research</span>([]<span class="pl-smi">string</span>{<span class="pl-s">"IOT"</span>})
 <br>
 <span class="pl-k";  style="color:red;">for</span> <span class="pl-en">aLive</span>() <span class="pl-c1">==</span> <span class="pl-c1">true</span> {
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
