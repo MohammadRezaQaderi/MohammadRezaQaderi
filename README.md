@@ -1,4 +1,4 @@
-### Hi there 👋(buy laugh)
+### Hi there 👋(buy a laugh)
 
 <html>
   <body>
