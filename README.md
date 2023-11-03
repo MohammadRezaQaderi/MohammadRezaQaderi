@@ -1,4 +1,4 @@
-### Hi 👋(make a laugh :))
+### Hey 👋(make a laugh :))
 
 <html>
   <body>
