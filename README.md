@@ -1,4 +1,4 @@
-### heyyy 👋(🍓) be happy ok?? no it cant be
+### heyyy 👋(🍓) be happy ok
 
 <html>
   <body>
