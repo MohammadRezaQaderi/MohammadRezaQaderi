@@ -35,8 +35,6 @@ Fun fact: I do love Fifa.</p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-
 ## My State
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohammadRezaQaderi&show_icons=true&theme=monokai" alt="MuhmdrezA Qaderi's GitHub stats" /><br />
