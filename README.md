@@ -15,8 +15,7 @@
 
 
 <p><a href="mailto:mrq112775@gmail.com"><img src="https://camo.githubusercontent.com/c7d9ad89d81567ad4d666c9cf4c9646fd965a52f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d676d61696c2d6c69676874677261793f7374796c653d666c61742d737175617265266c6f676f3d676d61696c" alt="" data-canonical-src="https://img.shields.io/badge/-gmail-lightgray?style=flat-square&amp;logo=gmail" style="max-width:100%;"></a></p>
-
-    <p>I'm currently studying computer engineering at <a href="https://aut.ac.ir/" rel="nofollow">Amirkabir University Of Technology</a> and looking <br>forward to study AI And Network in the future.<br>
+<p>I'm currently studying computer engineering at <a href="https://aut.ac.ir/" rel="nofollow">Amirkabir University Of Technology</a> and looking <br>forward to study AI And Network in the future.<br>
 
 My favorite programming language is <a rel="nofollow">Maybe Go</a>, I have experience in Java and python3 too.I work for no one. <br>
 
@@ -24,7 +23,7 @@ My favorite programming language is <a rel="nofollow">Maybe Go</a>, I have exper
 
 Fun fact: I do love Fifa.</p>
 
-    <p style="font-size: '15px'"> I Live in middle-east. Nothing is impossible for me</p>
+<p style="font-size: '15px'"> I Live in middle-east. Nothing is impossible for me</p>
 
 <div class="highlight highlight-source-go"><pre><span class="pl-k">go</span> <span class="pl-en">inLove</span>([]<span class="pl-smi">string</span>{<span class="pl-s"></span> <span style="color:red">"GO"</span>, <span class="pl-s">"C"</span>, <span class="pl-s">"Django"</span>, <span class="pl-s">"Python"</span>, <span class="pl-s">"React"</span> , <span class="pl-s">"Laravel"</span>)
 
@@ -48,7 +47,7 @@ Fun fact: I do love Fifa.</p>
 
   </body>
 
-    </html>
+</html>
 
 **languages and tools:**  
 
