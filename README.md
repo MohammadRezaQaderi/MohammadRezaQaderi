@@ -1,97 +1,85 @@
-<h1 align="center">Hi there 👋, I'm Mohammadreza Qaderi <img src="https://media.giphy.com/media/hvRJCLFzcasMq1903/giphy.gif" width="35"></h1>
+## heyy OK But ;)
 
-<h3 align="center">Senior Backend Engineer | Tech Lead | Distributed Systems Enthusiast</h3>
+<html>
 
-<p align="center">
-  <em>Living in the Middle East. Nothing is impossible for me.</em> 🚀
+  <body>
+
+<p><h1><a id="user-content-MohammadRezaQaderi-" class="anchor" aria-hidden="true" href="#MohammadRezaQaderi-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> ُMَhَmmَdِrzA  <g-emoji class="g-emoji" alias="lion_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f981.png"><img class="emoji" alt="lion_face" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f981.png"></g-emoji></h1>
+
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/68ab20058bfa10bab2e498ad06790f1e49565816/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d616e67756c61722d677265656e3f7374796c653d666c61742d737175617265266c6f676f3d616e67756c6172"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="" data-canonical-src="https://img.shields.io/badge/-angular-green?style=flat-square&amp;logo=angular" style="max-width:100%;"></a></p>
+
+<p>
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0637911a8b17a42b6a3505faf84a2a64999d2613/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d632d6f72616e67653f7374796c653d666c61742d737175617265266c6f676f3d63"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="" data-canonical-src="https://img.shields.io/badge/-c-orange?style=flat-square&amp;logo=c" style="max-width:100%;"></a>
+
+
+
+<p><a href="mailto:mrq112775@gmail.com"><img src="https://camo.githubusercontent.com/c7d9ad89d81567ad4d666c9cf4c9646fd965a52f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d676d61696c2d6c69676874677261793f7374796c653d666c61742d737175617265266c6f676f3d676d61696c" alt="" data-canonical-src="https://img.shields.io/badge/-gmail-lightgray?style=flat-square&amp;logo=gmail" style="max-width:100%;"></a></p>
+
+    <p>I'm currently studying computer engineering at <a href="https://aut.ac.ir/" rel="nofollow">Amirkabir University Of Technology</a> and looking <br>forward to study AI And Network in the future.<br>
+
+My favorite programming language is <a rel="nofollow">Maybe Go</a>, I have experience in Java and python3 too.I work for no one. <br>
+
+<br>
+
+Fun fact: I do love Fifa.</p>
+
+    <p style="font-size: '15px'"> I Live in middle-east. Nothing is impossible for me</p>
+
+<div class="highlight highlight-source-go"><pre><span class="pl-k">go</span> <span class="pl-en">inLove</span>([]<span class="pl-smi">string</span>{<span class="pl-s"></span> <span style="color:red">"GO"</span>, <span class="pl-s">"C"</span>, <span class="pl-s">"Django"</span>, <span class="pl-s">"Python"</span>, <span class="pl-s">"React"</span> , <span class="pl-s">"Laravel"</span>)
+
+<span class="pl-k">Go</span> <span class="pl-en">research</span>([]<span class="pl-smi">string</span>{<span class="pl-s">"IOT"</span><span class="pl-s">"Cloud"</span>})
+
+<br>
+
+<span class="pl-k";  style="color:red;">for</span> <span class="pl-en">aLive</span>() <span class="pl-c1">==</span> <span class="pl-c1">true</span> {
+
+  <span class="pl-en">eat</span>()
+
+  <span class="pl-en">think</span>()
+
+  <span class="pl-en">code</span>()
+
+  <span class="pl-en">no_sleep</span>()
+
+}</pre></div>
+
 </p>
 
----
+  </body>
 
-### 👨‍💻 About Me
+    </html>
 
-I am a Senior Backend Engineer with 5+ years of experience designing high-performance distributed systems. [cite_start]My primary weapons of choice are **Go** and **Python**[cite: 213]. I specialize in microservices architecture, financial systems, and building scalable data pipelines that don't sweat under the pressure of millions of daily events. 
+**languages and tools:**  
 
-[cite_start]When I'm not architecting gRPC-based microservices or optimizing pipelines that handle 500,000 messages per second[cite: 158], I'm probably diving deep into high-performance networking, tweaking bare-metal Kubernetes clusters, or dominating in FIFA.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
-### 🛠️ Tech Stack & Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+
+## My State
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <br>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/HAProxy-1A1A40?style=for-the-badge&logo=haproxy&logoColor=white" alt="HAProxy" />
-</p>
 
-### 🧠 My Brain in a Go File
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadRezaQaderi&show_icons=true&theme=monokai" alt="MuhmdrezA Qaderi's GitHub stats" /><br />
 
-```go
-package main
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadRezaQaderi&theme=monokai" alt="MuhmdrezA Qaderi's Github Steak" /><br>
 
-import (
-	"fmt"
-	"time"
-)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRezaQaderi&layout=compact&langs_count=12&theme=monokai" alt="MuhmdrezA Qaderi's Most Used Languages" />
 
-type Engineer struct {
-	Name   string
-	Role   string
-	Skills []string
-}
-
-func (e *Engineer) DailyRoutine() {
-	for isAlive := true; isAlive; {
-		e.ArchitectMicroservices()
-		e.ProcessMillionsOfEvents()
-		e.DebugProduction() // Wait, who deployed on a Friday?
-		e.PlayFifa()
-		time.Sleep(6 * time.Hour) // Optional
-	}
-}
-
-func main() {
-	me := Engineer{
-		Name: "Mohammadreza",
-		Role: "Backend Tech Lead",
-		Skills: []string{
-			"Go", "Python", "Docker", "Kubernetes",
-			"High-Performance Networking", "Data Pipelines",
-		},
-	}
-	
-	fmt.Println("Deploying...", me.Name)
-	me.DailyRoutine()
-}
-```
-📈 GitHub Stats
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMohammadRezaQaderi%26show_icons%3Dtrue%26theme%3Dmonokai%26hide_border%3Dtrue" alt="Mohammadreza's GitHub stats" />
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DMohammadRezaQaderi%26theme%3Dmonokai%26hide_border%3Dtrue" alt="Mohammadreza's Github Streak" />
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMohammadRezaQaderi%26layout%3Dcompact%26langs_count%3D8%26theme%3Dmonokai%26hide_border%3Dtrue" alt="Mohammadreza's Most Used Languages" />
-</p>
-
-📫 Let's Connect
-<p align="center">
-<a href="mailto:muhammadrezaqaderi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/mohammadreza-qaderi-6770591a4/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /></a>
 </p>
