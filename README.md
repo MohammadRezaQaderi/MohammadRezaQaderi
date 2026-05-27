@@ -1,84 +1,153 @@
-## heyy OK But ;)
-
-<html>
-
-  <body>
-
-<p><h1><a id="user-content-MohammadRezaQaderi-" class="anchor" aria-hidden="true" href="#MohammadRezaQaderi-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> ُMَhَmmَdِrzA  <g-emoji class="g-emoji" alias="lion_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f981.png"><img class="emoji" alt="lion_face" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f981.png"></g-emoji></h1>
-
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/68ab20058bfa10bab2e498ad06790f1e49565816/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d616e67756c61722d677265656e3f7374796c653d666c61742d737175617265266c6f676f3d616e67756c6172"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="" data-canonical-src="https://img.shields.io/badge/-angular-green?style=flat-square&amp;logo=angular" style="max-width:100%;"></a></p>
-
-<p>
-
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0637911a8b17a42b6a3505faf84a2a64999d2613/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d632d6f72616e67653f7374796c653d666c61742d737175617265266c6f676f3d63"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="" data-canonical-src="https://img.shields.io/badge/-c-orange?style=flat-square&amp;logo=c" style="max-width:100%;"></a>
-
-
-
-<p><a href="mailto:mrq112775@gmail.com"><img src="https://camo.githubusercontent.com/c7d9ad89d81567ad4d666c9cf4c9646fd965a52f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d676d61696c2d6c69676874677261793f7374796c653d666c61742d737175617265266c6f676f3d676d61696c" alt="" data-canonical-src="https://img.shields.io/badge/-gmail-lightgray?style=flat-square&amp;logo=gmail" style="max-width:100%;"></a></p>
-<p>I'm currently studying computer engineering at <a href="https://aut.ac.ir/" rel="nofollow">Amirkabir University Of Technology</a> and looking <br>forward to study AI And Network in the future.<br>
-
-My favorite programming language is <a rel="nofollow">Maybe Go</a>, I have experience in Java and python3 too.I work for no one. <br>
-
-<br>
-
-Fun fact: I do love Fifa.</p>
-
-<p style="font-size: '15px'"> I Live in middle-east. Nothing is impossible for me</p>
-
-<div class="highlight highlight-source-go"><pre><span class="pl-k">go</span> <span class="pl-en">inLove</span>([]<span class="pl-smi">string</span>{<span class="pl-s"></span> <span style="color:red">"GO"</span>, <span class="pl-s">"C"</span>, <span class="pl-s">"Django"</span>, <span class="pl-s">"Python"</span>, <span class="pl-s">"React"</span> , <span class="pl-s">"Laravel"</span>)
-
-<span class="pl-k">Go</span> <span class="pl-en">research</span>([]<span class="pl-smi">string</span>{<span class="pl-s">"IOT"</span><span class="pl-s">"Cloud"</span>})
-
-<br>
-
-<span class="pl-k";  style="color:red;">for</span> <span class="pl-en">aLive</span>() <span class="pl-c1">==</span> <span class="pl-c1">true</span> {
-
-  <span class="pl-en">eat</span>()
-
-  <span class="pl-en">think</span>()
-
-  <span class="pl-en">code</span>()
-
-  <span class="pl-en">no_sleep</span>()
-
-}</pre></div>
-
-</p>
-
-  </body>
-
-</html>
-
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-
-## My State
+<h1 align="center">Hey 👋, I'm Mohammadreza Qaderi</h1>
+<h3 align="center">
+Backend Engineer • Distributed Systems • Go Developer • AI Enthusiast
+</h3>
 
 <p align="center">
+  <a href="https://github.com/MohammadRezaQaderi">
+    <img src="https://komarev.com/ghpvc/?username=MohammadRezaQaderi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadRezaQaderi&show_icons=true&theme=monokai" alt="MuhmdrezA Qaderi's GitHub stats" /><br />
+  <a href="https://github.com/MohammadRezaQaderi?tab=followers">
+    <img src="https://img.shields.io/github/followers/MohammadRezaQaderi?label=Followers&style=social"/>
+  </a>
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadRezaQaderi&theme=monokai" alt="MuhmdrezA Qaderi's Github Steak" /><br>
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRezaQaderi&layout=compact&langs_count=12&theme=monokai" alt="MuhmdrezA Qaderi's Most Used Languages" />
+## 🚀 About Me
 
+- 🔭 Backend Tech Lead at **Pishro Broker**
+- ⚡ Building scalable **microservices** & distributed systems using **Go**
+- 🧠 Interested in:
+  - Distributed Systems
+  - High Performance Architectures
+  - Financial Infrastructure
+  - Artificial Intelligence
+  - Cloud Native Technologies
+- 🎓 M.Sc. Computer Networks @ **Tarbiat Modares University**
+- 👨‍🏫 Head Teaching Assistant at **Amirkabir University of Technology**
+- 💬 Ask me about:
+  - Go
+  - gRPC
+  - Kafka / RabbitMQ
+  - Docker & Kubernetes
+  - PostgreSQL
+  - ClickHouse
+  - System Design
+
+---
+
+## 🌐 Portfolio & Contact
+
+<p align="center">
+  <a href="https://mohammadrezaqaderi.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+
+  <a href="mailto:muhammadrezaqaderi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# ⚙️ Tech Stack
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,cpp,c,java,js,php,bash"/>
+</p>
+
+## Backend & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,postgres,mongodb,linux,nginx,git"/>
+</p>
+
+## Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,django,fastapi"/>
+</p>
+
+---
+
+# 🏗️ What I Build
+
+✅ High-performance backend systems  
+✅ Event-driven architectures  
+✅ Trading systems & financial infrastructure  
+✅ AI-powered platforms  
+✅ Distributed scraping pipelines  
+✅ Cloud-native applications  
+✅ Real-time messaging systems  
+
+---
+
+# 📌 Featured Projects
+
+### 📈 Paper Trading Platform
+A simulated Iranian stock market trading environment with real-time market data and portfolio analytics.
+
+### 🤖 AI University Selection System
+AI-powered recommendation engine helping students predict university acceptance probabilities.
+
+### 🛰️ Distributed Market Data Pipeline
+Scalable distributed scraping and aggregation system processing tens of thousands of financial records daily.
+
+### 🧠 Video Swin Transformer
+Research & implementation of transformer-based video recognition systems.
+
+### 🔍 Search Engine
+Semantic document retrieval engine using statistical ranking + embeddings.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammadRezaQaderi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRezaQaderi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadRezaQaderi&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 Philosophy
+
+```go
+func Life() {
+    for alive {
+        Learn()
+        Build()
+        Teach()
+        Improve()
+        Repeat()
+    }
+}
+```
+
+---
+
+# ☕ Fun Facts
+
+- 🎮 FIFA fan
+- 🧩 Love solving system design problems
+- 🌙 Most productive at night
+- ⚡ Go feels like home
+
+---
+
+<p align="center">
+  <i>"Build systems that scale. Write code that lasts."</i>
 </p>
